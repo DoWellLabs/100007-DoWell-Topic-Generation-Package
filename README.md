@@ -146,12 +146,12 @@ the project is integrated with Dowell Topic Generation Api
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: asset/images/topicGenerate2.jpg
-[welcome-screenshot]: asset/images/homepage1.PNG
-[onboarding-screenshot]: asset/images/homepage2.PNG
-[onboard-screenshot]: asset/images/homepage3.PNG
+[product-screenshot]: assets/images/topicGenerate2.jpg
+[welcome-screenshot]: assets/images/homepage1.PNG
+[onboarding-screenshot]: assets/images/homepage2.PNG
+[onboard-screenshot]: assets/images/homepage3.PNG
 [home-screenshot]: assets/images/topicGenerate1.PNG
-[question-screenshot]: asset/images/Faqspage.PNG
+[question-screenshot]: assets/images/Faqspage.PNG
 [Flutter]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
 [FlutterFlow]: https://img.shields.io/badge/FlutterFlow-black?style=for-the-badge&logo=Flutterflo&logoColor=4839e3
