@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="assets/images/logo.png" alt="Logo" width="100" height="900">
+    <img src="assets/images/logo.png" alt="Logo" width="300" height="300">
 
   <h3 align="center">DoWell Topic Generator</h3>
 
