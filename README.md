@@ -146,7 +146,7 @@ the project is integrated with Dowell Topic Generation Api
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: assets/images/topicGenerate2.jpg
+[product-screenshot]: assets/images/topicGenerate2.PNG
 [welcome-screenshot]: assets/images/homepage1.PNG
 [onboarding-screenshot]: assets/images/homepage2.PNG
 [onboard-screenshot]: assets/images/homepage3.PNG
