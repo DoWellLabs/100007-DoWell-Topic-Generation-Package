@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[![Product Name Screen Shot][welcome-screenshot1]]
 "The Topic Generation API is a powerful tool that allows users to automatically generate informative and engaging topics for various applications. By leveraging advanced Artificial Intelligence technique.
 
 this API enables users to obtain relevant and well-structured topics without the need for manual brainstorming or extensive research"
@@ -118,13 +118,14 @@ After the Environment is set, next download, get the dependencies and run the Ap
 1. <p>go to published web <a href="https://dowell-topic-generation-5hhhu3.flutterflow.app">link</a></p>
     
 2. <p>press get started to be redirected to the home page</p>
+  [![Product Name Screen Shot][welcome-screenshot2]]
+  [![Product Name Screen Shot][welcome-screenshot3]]
 
-  [![Product Name Screen Shot][welcome-screenshot]]
-
-3. <p>Enter a valid email and press the subscribe button to subscribe to the newsletter</p>
+1. <p>Enter an object and adjective that best describe the topic to be generated</p>
   [![Product Name Screen Shot][home-screenshot]]
+  [![Product Name Screen Shot][product-screenshot]]
 
-4. <p>press the Unsubscribe button and enter your reason to leave the newsletter then press continue</p>
+1. <p>press generate button and enter to generate the topic and kindly wait for the topic to be generated</p>
 
   [![Product Name Screen Shot][question-screenshot]]
 
@@ -145,10 +146,12 @@ the project is integrated with Dowell Topic Generation Api
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: asset/images/project_screenshot.jpg
-[welcome-screenshot]: asset/images/welcome_screenshot.PNG
-[home-screenshot]: asset/images/home_screenshot.PNG
-[question-screenshot]: asset/images/question_screenshot.PNG
+[product-screenshot]: asset/images/topicGenerate2.jpg
+[welcome-screenshot1]: asset/images/homepage1.PNG
+[welcome-screenshot2]: asset/images/homepage2.PNG
+[welcome-screenshot3]: asset/images/homepage3.PNG
+[home-screenshot]: assets/images/topicGenerate1.PNG
+[question-screenshot]: asset/images/Faqspage.PNG
 [Flutter]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
 [FlutterFlow]: https://img.shields.io/badge/FlutterFlow-black?style=for-the-badge&logo=Flutterflo&logoColor=4839e3
