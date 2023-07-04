@@ -1,11 +1,157 @@
-# 100007-DoWell-Topic-Generation-Package
-To follow the steps you provided, please follow the instructions below:
-Create a branch from the main branch with the name of the project you are working on, followed by your name. For example, if the project is called "MyProject" and your name is John, the branch name would be "MyProject-John".
+<a name="readme-top"></a>
 
-Important: Avoid pushing your code directly to the main branch. If you do so, your code will be removed, and you will need to push it again to your branch. Instead, always work on your own branch.
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc.
+-->
 
-Before starting the development process, make sure to thoroughly understand the project's API documentation. You can access it by clicking here, [Dowell API Services](https://github.com/orgs/DoWellUXLab/).
 
-By following these steps, you will ensure that you work on your dedicated branch, understand the API documentation, and collaborate effectively on the project.
 
-If you encounter any issues, have questions, or need assistance with the Geometrical Layout of Big Data API, please contact our support team.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="asset/images/logo.png" alt="Logo" width="100" height="900">
+
+  <h3 align="center">DoWell Topic Generator</h3>
+
+  <p align="center">
+    Dowell Topic Generator App
+    <br />
+    <a href="https://dowell-topic-generation-5hhhu3.flutterflow.app">View Published Web app</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#How-to-use-the-app">How to use the app</a></li>
+    <li><a href="#project">Go to the Project</a></li>
+    <li><a href="#api_documentation">Api Documentation</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]]
+"The Topic Generation API is a powerful tool that allows users to automatically generate informative and engaging topics for various applications. By leveraging advanced Artificial Intelligence technique.
+
+this API enables users to obtain relevant and well-structured topics without the need for manual brainstorming or extensive research"
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+this application is build using flutterflow
+
+* [![Flutter][Flutter]][Flutter-url]
+* [![FlutterFlow][FlutterFlow]][FlutterFlow-url]
+* [![Dart][Dart]][Dart-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+when the source code is available the app can be installed and tested locally using the following steps.
+
+### Prerequisites
+
+Make sure flutter SDK is installed on the local machine
+
+check flutter is running with no issues, using the following command:
+```sh
+  flutter doctor
+```
+
+### Installation
+
+After the Environment is set, next download, get the dependencies and run the App
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/DoWellUXLab/DoWell-Topic-Generation.git
+   ```
+2. Checkout the branch of the project
+  ```sh
+    git checkout branch_name
+  ```
+3. Install dependency packages
+   ```sh
+   flutter pub get
+   ```
+4. connect a device and then run the app
+   ```sh
+   flutter run
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## How-to-use-the-app
+
+1. <p>go to published web <a href="https://dowell-topic-generation-5hhhu3.flutterflow.app">link</a></p>
+    
+2. <p>press get started to be redirected to the home page</p>
+
+  [![Product Name Screen Shot][welcome-screenshot]]
+
+3. <p>Enter a valid email and press the subscribe button to subscribe to the newsletter</p>
+  [![Product Name Screen Shot][home-screenshot]]
+
+4. <p>press the Unsubscribe button and enter your reason to leave the newsletter then press continue</p>
+
+  [![Product Name Screen Shot][question-screenshot]]
+
+5. <p>If the steps are completed successfully you will recieve a popup message</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## api_documentation
+
+the project is integrated with Dowell Topic Generation Api
+
+<p>the link for the Api documentation <a href="https://github.com/DoWellLabs/100007-DoWell-Topic-Generation-Package/">Dowell Topic Generation Api documentation</a></p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: asset/images/project_screenshot.jpg
+[welcome-screenshot]: asset/images/welcome_screenshot.PNG
+[home-screenshot]: asset/images/home_screenshot.PNG
+[question-screenshot]: asset/images/question_screenshot.PNG
+[Flutter]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-url]: https://flutter.dev/
+[FlutterFlow]: https://img.shields.io/badge/FlutterFlow-black?style=for-the-badge&logo=Flutterflo&logoColor=4839e3
+[FlutterFlow-url]:https://flutterflow.io/
+[Dart]: https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue
+[Dart-url]: https://dart.dev/
